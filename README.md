@@ -23,7 +23,7 @@
  - Repo에 공유는 일요일까지 완료합니다.
 
 ## 📚 책 목록
-- [~ing][객체지향의 사실과 오해](https://github.com/CS-Free-study/ReadingRecord/contents/객체지향의_사실과_오해)
+- [~ing][객체지향의 사실과 오해](https://github.com/CS-Free-study/ReadingRecord/tree/main/contents/%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%EC%9D%98%20%EC%82%AC%EC%8B%A4%EA%B3%BC%20%EC%98%A4%ED%95%B4)
 - 오브젝트
 - Real MySQL 8.0
 - 클린코드
