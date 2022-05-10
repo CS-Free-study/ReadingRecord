@@ -10,8 +10,11 @@
 <a href="https://github.com/poly9010">
   <img src="https://avatars.githubusercontent.com/u/66791731?v=4" width="100">
 </a>
-<a href="https://github.com/jonghyeok98">
-  <img src="https://avatars.githubusercontent.com/u/77715064?v=4" width="100">
+<a href="https://github.com/coderyard">
+  <img src="https://avatars.githubusercontent.com/u/59395755?v=4" width="100">
+</a>
+ <a href="https://github.com/potados99">
+  <img src="https://avatars.githubusercontent.com/u/35878712?v=4" width="100">
 </a>
 </p>
 
